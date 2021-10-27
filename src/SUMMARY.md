@@ -18,3 +18,6 @@
 - [Let's finish implementing login page](./finish_login_page.md)
 - [Let's add logic to login page](./logic_to_login_page.md)
 - [Exercise 3](./exercise_3.md)
+<!-- - [What are modules?](./what_are_modules.md)
+- [Splitting application into modules?](./splitting_application_into_module.md)
+- [Exercise 4](./exercise_4.md) -->
